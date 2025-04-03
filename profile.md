@@ -5,9 +5,7 @@
 ### Weekly Session: Monday 10:00
 
 ### Team Members
-- *Joe Bloggs*
-- Fred Smith
-- Ibrahim Mahama
-- Aisha Ahmed
-
-- 
+- Jake Zibe
+- Jack Towers-Evans
+- Alex Kerry
+- Tom Webster
